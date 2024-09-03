@@ -131,4 +131,6 @@ Now that you have switched configuration, if you did everything correctly and th
 | fakeadmin  |  admin   |
 
 # Credits and Useful Links
-Nope, i did my own researches to get to this conclusion :)
+Yes, i did my own tests to get to this conclusion :)
+
+Credits: https://github.com/skManux
