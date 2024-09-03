@@ -89,8 +89,6 @@ Then, on a linux machine, run this command to send the file to the router:
 cat hw_ctree.modified.xml | busybox nc <Router's IP Here> 1234
 ```
 
-![image](https://github.com/user-attachments/assets/fdfff14d-1ac0-4eb2-af61-b589fe94a458)
-
 Finally, you have to re-encrypt the file, running:
 
 ```
