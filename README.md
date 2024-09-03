@@ -1,6 +1,8 @@
+
 # HG8245Q2-Crack
-![image](https://github.com/user-attachments/assets/e383589d-e2b3-4351-ac34-5570566954ff)
 How to crack the HG8245Q2 router and gain "UserLevel=0" web access!
+
+<img src="https://github.com/user-attachments/assets/e383589d-e2b3-4351-ac34-5570566954ff" alt="image" width="250">
 
 # Requirements
 To follow this guide, you need to have:
@@ -14,7 +16,7 @@ To follow this guide, you need to have:
 First of all, you need to reset your router to factory settings.
 In the photo you will find the position of the "RESET" button. Press it and wait for the router to restart.
 
-![image](https://github.com/user-attachments/assets/87f8ecb7-1b4e-4f5d-a154-58aaac979ae8)
+<img src="https://github.com/user-attachments/assets/87f8ecb7-1b4e-4f5d-a154-58aaac979ae8" alt="image" width="350">
 
 ## Step 2: Get access to a root shell
 Next, connect via Ethernet and use any SSH/Telnet client to connect **WITH TELNET PROTOCOL ONLY** to `192.168.1.1`/`192.168.100.1`, on port `23`.
