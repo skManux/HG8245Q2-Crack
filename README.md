@@ -86,7 +86,7 @@ nc -l -p 1234 > hw_ctree.modified.xml
 Then, on a linux machine, run this command to send the file to the router:
 
 ```
-cat hw_ctree.modified.xml | busybox nc <Router's IP Here> 1234
+cat hw_ctree.modified.xml | nc <Router's IP Here> 1234
 ```
 
 Finally, you have to re-encrypt the file, running:
